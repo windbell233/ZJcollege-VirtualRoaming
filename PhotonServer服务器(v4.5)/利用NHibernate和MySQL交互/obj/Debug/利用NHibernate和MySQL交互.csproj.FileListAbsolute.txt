@@ -1,0 +1,15 @@
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\windbelledu.exe.config
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\windbelledu.exe
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\windbelledu.pdb
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\Iesi.Collections.dll
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\MySql.Data.dll
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\NHibernate.dll
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\Iesi.Collections.xml
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\MySql.Data.xml
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\NHibernate.xml
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\obj\Debug\利用NHibernate和MySQL交互.csproj.CoreCompileInputs.cache
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\obj\Debug\利用NHibernate和MySQL交互.csproj.CopyComplete
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\obj\Debug\windbelledu.exe
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\obj\Debug\windbelledu.pdb
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\bin\Debug\hibernate.cfg.xml
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\利用NHibernate和MySQL交互\obj\Debug\利用NHibernate和MySQL交互.csprojAssemblyReference.cache

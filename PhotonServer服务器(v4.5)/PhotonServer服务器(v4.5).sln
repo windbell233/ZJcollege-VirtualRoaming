@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp直接连接MySQL", "CSharp直接连接MySQL\CSharp直接连接MySQL.csproj", "{27F9C200-7F95-4AA3-856A-18F362927FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "利用NHibernate和MySQL交互", "利用NHibernate和MySQL交互\利用NHibernate和MySQL交互.csproj", "{908297D4-8200-4CFA-9A34-ABDDA8B259A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F9C200-7F95-4AA3-856A-18F362927FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F9C200-7F95-4AA3-856A-18F362927FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F9C200-7F95-4AA3-856A-18F362927FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F9C200-7F95-4AA3-856A-18F362927FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908297D4-8200-4CFA-9A34-ABDDA8B259A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908297D4-8200-4CFA-9A34-ABDDA8B259A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908297D4-8200-4CFA-9A34-ABDDA8B259A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908297D4-8200-4CFA-9A34-ABDDA8B259A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC802442-FFB5-4B4B-AD78-DC04B9877C4A}
+	EndGlobalSection
+EndGlobal

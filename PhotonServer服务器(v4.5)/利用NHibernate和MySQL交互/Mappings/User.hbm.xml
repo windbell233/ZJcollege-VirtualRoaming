@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Windbelledu"
+                   namespace="Windbelledu.Model">
+
+
+
+  <class name="User" table="users">    <!--该命名空间下的User类与数据中的users表进行映射-->
+    <id name="Id" column="id" type="Int32">   <!--配置该空间的主键和数据库的主键-->
+      <generator class="native" ></generator> <!--native本地，使用自带的生成器，自动增长-->
+    </id>
+    <property name="Username" column="username" type="String" ></property>  <!--其他键使用property配置-->
+    <property name="Password" column="password" type="String" >
+    </property>
+    <property name="Registerdate" column="registerdate" type="Date" >
+    </property>
+    
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,10 @@
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe.config
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.pdb
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\bin\Debug\MySql.Data.dll
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\bin\Debug\MySql.Data.xml
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csprojAssemblyReference.cache
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csproj.CoreCompileInputs.cache
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csproj.CopyComplete
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.exe
+D:\[-UnityDemoHouse-2\PhotonServer服务器(v4.5)\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.pdb
